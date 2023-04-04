@@ -2,7 +2,9 @@
 
 - installed cpp in your computer
 - run `./run.sh yourfilename.cpp`
-- Result Example ```sh
+- Result Example 
+
+```console
 Compiled Successfully!...
 Running dataStructures/array.out
 Output: 

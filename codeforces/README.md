@@ -1,6 +1,6 @@
 # Study Repository
 
-This repository contains study materials and resources for C++ Programing that I've collected during my studies. Feel free to use them if they are helpful to you.
+This repository contains study materials and resources for [insert the name of the subject you're studying] that I've collected during my studies. Feel free to use them if they are helpful to you.
 
 ## Table of Contents
 
@@ -36,22 +36,3 @@ This repository is open to contributions. If you have any study materials or res
 ## License
 
 This repository is licensed under the [insert license name here] license. Please see the [LICENSE](LICENSE) file for more details.
-
-
-
-
-## C++ Leaning lol
-
-- installed cpp in your computer
-- run `./run.sh yourfilename.cpp`
-- Result Example 
-
-```console
-Compiled Successfully!...
-Running dataStructures/array.out
-Output: 
-2
-3
-4
-5
-```

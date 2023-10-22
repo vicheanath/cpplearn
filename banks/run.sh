@@ -1,0 +1,1 @@
+g++ -std=c++11 -O2 -Wall -o  banks main.cpp BankingService.cpp Customer.cpp Account.cpp Transaction.cpp

@@ -1,20 +1,20 @@
 Type:
-    - C++ is "Strongly Typed"
-      - What does it mean?
-    - In some languages you can write
-    - Fundamental Types: 
-        - Arithmetic : int,char,bool,float...
-        - void, nullptr_t
-    - Compound:
-        - Reference (lvalue reference, rvalue reference)
-        - Pointer
-        - Pointer to member
-        - Array
-        - Function
-        - Enumeration
-        - Class and Union
-    - Almost all can be cv-qualified
-        - Putting const or volatile in front of the type
+- C++ is "Strongly Typed"
+  - What does it mean?
+- In some languages you can write
+- Fundamental Types: 
+  - Arithmetic : int,char,bool,float...
+  - void, nullptr_t
+- Compound:
+  - Reference (lvalue reference, rvalue reference)
+  - Pointer
+  - Pointer to member
+  - Array
+  - Function
+  - Enumeration
+  - Class and Union
+- Almost all can be cv-qualified
+  - Putting const or volatile in front of the type
   
 Type of type:
 

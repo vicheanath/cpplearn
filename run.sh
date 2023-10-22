@@ -13,5 +13,8 @@ echo -e "\033[0;32mCompiling $file.cpp\033[0m"
 echo -e "\033[0;32mRunning $file.out\033[0m"
 echo -e "\033[0;32mOutput:\033[0m"
 
+# sleep 1s
+sleep 1
+
 # try catch ./$file.out runtime error
 ./$file.out || echo -e "\033[0;31mRuntime Error\033[0m"

@@ -1,8 +1,15 @@
-#include <iostream>
-using namespace std;
+#include <bits/stdc++.h>
+
 int main(){
-    int arr[5] ={1,2,3,4,5};
-    for (int i =1;i<5;i++){
-        cout<<arr[i]<<endl;
-    }
+    char vowels[5] = {'a','e','i','o','u'};
+    std::cout << vowels[2];
+
+    char game[3][3] = {
+        {'x','o','o'},
+        {'o','x','x'},
+        {'o','o','x'}
+    };
+
+    std::cout << game[0][2];
+    return 0;
 }
